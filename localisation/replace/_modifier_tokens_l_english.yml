@@ -1,0 +1,10 @@
+﻿l_english:
+# Manpower
+ weekly_manpower: "Wöchentliche Mannstärke"
+ weekly_manpower_factor: "Wöchentliche Mannstärke Faktor"
+ local_weekly_manpower: "Lokale wöchentliche Mannstärke"
+ local_weekly_manpower_factor: "Lokaler wöchentlicher Mannstärke Faktor"
+# Legitimacy
+ political_legitimacy: "Legitimität"
+ political_legitimacy_factor: "Legitimitätsfaktor"
+ political_legitimacy_change_tt: "£legitimacy_texticon  Legitimität: $RECHTS|+=%$"
